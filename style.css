@@ -1,3 +1,78 @@
-body{
-    background: blue;
+#header{
+    width: 100%;
+    min-height: 10px;
+    background-color: red;
+    line-height: 50px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    padding:0;
 }
+
+body{
+    
+    min-height: 100vh;
+    margin: 0;
+    background-image: url("https://serengetitech.com/wp-content/uploads/2021/06/shutterstock_1396210841-ai-1.png");
+    background-size:cover
+    ;
+    justify-content: center;
+    align-items: center;
+
+}
+.top{
+    color: blsck;
+    
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+
+}
+nav ul li a{
+    color: black;
+    padding: 100px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: serif;
+    color: white;
+
+}
+p{
+    color: black;
+    text-align: center;
+    font-size:x-large;
+
+}
+ li{
+    color: black;
+    text-align: center;
+    font-size: x-large;
+    
+}
+.Login-box{
+    background-color: grey;
+    position: relative;
+    width: 400px;
+    height: 130px;
+    border-radius: 8px;
+}
+h2{
+    font-size: 2em;
+} 
+
+button{
+    background-color: green;
+    font-weight: bold;
+    font-size: large;
+} 
+
+footer{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+    
+
